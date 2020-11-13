@@ -1,5 +1,6 @@
 function sum(){
     //TODO: Implementar soma
+    //Gustavo
 }
 
 function sub(){
