@@ -1,0 +1,25 @@
+    1  clone
+    2  git config
+    3  git config --list
+    4  ssh-keygen -t ed25519 -C "joaocarrett1@gmail.com"
+    5  cat ~/.ssh/id_rsa.pub
+    6  git status
+    7  git status
+    8  git stats]
+    9  git status
+   10  git init
+   11  git clone 
+   12  git clone git@github.com:jcarett/Avalia-o.git
+   13  code.
+   14  code .
+   15  cd Avalia-o/
+   16  code .
+   17  git status
+   18  git add .
+   19  git status
+   20  git checkout -b feature/div
+   21  git commit -m "Implementa a Divisão"
+   22  git push origin feature/div
+   23  git status
+   24  history
+   25  history > LOG_Joao-Carrett
