@@ -1,0 +1,53 @@
+    1  gitflow
+    2  a
+    3  cd gitflow
+    4  ssh-keygen -t ed25519 -C "xandeperes@hotmail.com"
+    5  cd C:\Users\T-Gamer\FACULDADE
+    6  pwd
+    7  C:\Users\T-Gamer\FACULDADE
+    8  cd
+    9  pwd
+   10  cd
+   11  pwd
+   12  clear
+   13  
+   14  cd C:\Users\T-Gamer\FACULDADE
+   15  cd /faculdade
+   16  pwd
+   17  cd faculdade
+   18  pwd
+   19  clear
+   20  $ ssh-keygen -t ed25519 -C "xandeperes@hotmail.com"
+   21  ssh-keygen -t ed25519 -C "xandeperes@hotmail.com"
+   22  hitory -c
+   23  history -c.
+   24  code .
+   25  git config --list
+   26  eval "$(ssh-agent -s)"
+   27  openssh-client
+   28  ssg-keygen -t rsa -b -C xandeperes@hotmail.com
+   29  ssg-keygen -t rsa -b -C "xandeperes@hotmail.com"
+   30  ssh-keygen -t ed25519 -C "xandeperes@hotmail.com"
+   31  cat ~/.ssh/id_rsa.pub
+   32  clear
+   33  git init
+   34  git clone git@github.com:jcarett/Avalia-o.git
+   35  git status
+   36  cd a
+   37  cd Avalia-o/
+   38  git statusgit status
+   39  git status
+   40  code .
+   41  git status
+   42  git checkout -b  feature/Multi
+   43  git status
+   44  git add .
+   45  git commit -m "Implementa a multiplicação"
+   46  git push origin feature/Mult
+   47  git push origin feature/mult
+   48  git push origin feature
+   49  clear 
+   50  git status
+   51  git push origin feature/Multi
+   52  git status
+   53  history > LOG_Alexandre-Peres
