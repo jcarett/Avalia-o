@@ -19,4 +19,6 @@ function mult(){
 
 function div(){
     //TODO: Implementar divisão
+    //João Carrett
+    return num1/num2
 }
