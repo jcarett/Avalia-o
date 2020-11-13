@@ -13,6 +13,8 @@ function sub(){
 
 function mult(){
     //TODO: Implementar multiplicação
+    // Alexandre
+    return num1 * num2
 }
 
 function div(){
