@@ -1,0 +1,26 @@
+  1 git init
+  2 git clone git@github.com:jcarett/Avalia-o.git
+  3 code .
+  4 git status
+  5 cd Avalia-o/
+  6 git status
+  7 git add .
+  8 git status
+  9 git status
+  10 git checkout -b  feature/Soma
+  11 gti status
+  12 git status
+  13 git add .
+  14 git commit
+  15 git commit -m "Implementa a soma"
+  16 git status
+  17 git push origin feature/Soma
+  18 git status
+  19 git add .
+  20 git status
+  21 git commit -m "Implementa o código de Soma"
+  22 git push origin feature/Soma
+  23 git satus
+  24 git status
+  25 git push origin feature/Soma
+  26 history > LOG_Gustavo-Viegas
