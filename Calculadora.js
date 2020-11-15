@@ -9,6 +9,8 @@ function sum(num1,num2){
 
 function sub(){
     //TODO: Implementar subtração
+    //Joao Leo Ochoa Mello
+    return num1 - num2
 }
 
 function mult(){

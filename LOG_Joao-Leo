@@ -1,0 +1,20 @@
+    1  clone
+    2  git config
+    3  git config --list
+    4  ssh-keygen -t rsa -b 4096 -C "JLochoamello@gmail.com"
+    5  cat ~/.ssh/id_rsa.pub
+    6  git status
+    7  git init
+    8  git clone 
+    9  git clone git@github.com:jcarett/Avalia-o.git
+   10  code.
+   11  code .
+   12  cd Avalia-o/
+   13  code .
+   14  git status
+   15  git add .
+   16  git status
+   17  git commit -m "Implementa a Sub"
+   18  git push origin master
+   19  git status
+   20  history
